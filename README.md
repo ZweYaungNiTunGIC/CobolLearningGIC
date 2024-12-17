@@ -21,9 +21,11 @@ code .
 #in vs code Create cobol program file and other necessary files in the same folder
 
 #compile cobol from linux terminal
+
 cobc -x program-name    // cobc -x Demo.cbl
 
 #Run cobol program
+
 ./program-name   //   ./Demo
 
 
